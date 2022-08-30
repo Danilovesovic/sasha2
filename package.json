@@ -1,0 +1,19 @@
+{
+  "name": "cas22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sasha": "echo 'Zdravo Sasha'",
+    "nodemon": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
